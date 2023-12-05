@@ -8,4 +8,10 @@ Basics of Swift
 
 ## Class 2
 
-POO
+### POO
+
+### Project
+
+1. Create Token on GitHub
+2. Conectar Cuenta a XCode
+3. Click Derecho en Remote -> New Remote
