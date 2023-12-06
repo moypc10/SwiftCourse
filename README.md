@@ -15,3 +15,5 @@ Basics of Swift
 1. Create Token on GitHub
 2. Conectar Cuenta a XCode
 3. Click Derecho en Remote -> New Remote
+
+Abrir Menú de Elementos: Shift + CMD + L
